@@ -1,13 +1,6 @@
 <template>
   <div class="home">
-    <h1>This is the home page</h1>
+    <navbar />
+    <p>This is the Home page</p>
   </div>
 </template>
-
-<script>
-// @ is an alias to /src
-
-export default {
-  name: 'Home',
-};
-</script>
