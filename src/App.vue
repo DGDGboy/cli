@@ -12,3 +12,12 @@ export default {
 <template>
   <navbar />
 </template>
+
+<style lang="scss">
+p {
+    color: grey;
+    font-size: 47px;
+    font-style: bold;
+    font-weight: bold;
+}
+</style>
