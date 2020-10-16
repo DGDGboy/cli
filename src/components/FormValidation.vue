@@ -1,6 +1,6 @@
 <template>
   <div class="card">
-    <h3 class="card-header text-center">Register</h3>
+    <h3 class="card-header text-center">Vuelidate Form</h3>
     <div class="card-body">
       <form @submit.prevent="submitForm">
         <div class="form-row">
